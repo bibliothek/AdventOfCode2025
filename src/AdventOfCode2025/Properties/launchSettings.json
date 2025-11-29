@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "AdventOfCode2025": {
+      "commandName": "Project",
+      "environmentVariables": {
+
+      },
+      "commandLineArgs": "8 1"
+    }
+  }
+}
